@@ -1,0 +1,7 @@
+                                   ANIMAL DETECTION AND IDENTIFICATION USING MACHINE LEARNING
+        
+        INTRODUCTION:-- 
+                           Observing wild animals in their natural environments is a central task in ecology. The fast growth of human population and the endless pursuit of economic development are making over-exploitation of natural resources, causing rapid, novel and substantial changes to Earth’s ecosystems. An increasing area of land surface has been transformed by human action, altering wildlife population, habitat and behaviour. More seriously many wild species on Earth have been driven to extinction, and many species are introduced into new areas where they can disrupt both natural and human systems. Monitoring wild animals, therefore, is essential as it provides researchers evidences to inform conservation and management decisions to maintain diverse, balanced and sustainable ecosystems in the face of those changes.
+ Various modern technologies have been developed for wild animal monitoring, including radio tracking, wireless sensor network tracking, satellite and global positioning system (GPS) tracking, and monitoring by motion sensitive camera traps. Motion-triggered remote cameras or “camera traps” are an increasingly popular tool for wildlife monitoring, due to their novel features equipped, wider commercial availability, and the ease of deployment and operation
+![image](https://user-images.githubusercontent.com/68950232/216544524-e5e7fb4f-7362-427c-b0c2-6329382004b4.png)
+                           
